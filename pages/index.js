@@ -105,8 +105,7 @@ export default function Home() {
               <h3 className="text-lg font-medium pt-8 pb-2 ">
                 Code your dream project
               </h3>
-              <p className="py-2">Do you have an idea for your next great website? Let's make it a reality.</p>
-
+              <p className="py-2">Do you have an idea for your next great website? Let&apos;s make it a reality.</p>
               <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
               <p className="text-gray-800 py-1">Photoshop</p>
               <p className="text-gray-800 py-1">Illustrator</p>
