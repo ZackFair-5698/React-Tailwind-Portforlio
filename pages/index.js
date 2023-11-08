@@ -87,7 +87,7 @@ export default function Home() {
           </div>
           <div className="lg:flex gap-10">
             <div className="text-center shadow-lg p-10 rounded-xl my-10  dark:bg-white flex-1">
-              <Image className="ml-12" src={design} width={100} height={100} alt="" />
+              <Image className="mx-auto" src={design} width={100} height={100} alt="" />
               <h3 className="text-lg font-medium pt-8 pb-2  ">
                 Beautiful Designs
               </h3>
@@ -102,7 +102,7 @@ export default function Home() {
               {/* <p className="text-gray-800 py-1">Indesign</p> */}
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
-              <Image className="ml-12" src={code} width={100} height={100} alt=""/>
+              <Image className="mx-auto" src={code} width={100} height={100} alt=""/>
               <h3 className="text-lg font-medium pt-8 pb-2 ">
                 Code your dream project
               </h3>
@@ -114,7 +114,7 @@ export default function Home() {
               {/* <p className="text-gray-800 py-1">Indesign</p> */}
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
-              <Image className="ml-12" src={consulting} width={100} height={100} alt=""/>
+              <Image className="mx-auto" src={consulting} width={100} height={100} alt=""/>
               <h3 className="text-lg font-medium pt-8 pb-2 ">Consulting</h3>
               <p className="py-2">
                 Are you interested in feedback for your current project? I can
